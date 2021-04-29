@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo API", "ToDo API\ToDo API.csproj", "{76B7EEA6-C7BA-4890-97C5-63F7DA8A0075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{01609804-45CD-48F5-93A5-652402A86EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{FB682C4C-35B1-4017-9278-7D062A44AD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B7EEA6-C7BA-4890-97C5-63F7DA8A0075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B7EEA6-C7BA-4890-97C5-63F7DA8A0075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B7EEA6-C7BA-4890-97C5-63F7DA8A0075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B7EEA6-C7BA-4890-97C5-63F7DA8A0075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01609804-45CD-48F5-93A5-652402A86EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01609804-45CD-48F5-93A5-652402A86EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01609804-45CD-48F5-93A5-652402A86EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01609804-45CD-48F5-93A5-652402A86EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB682C4C-35B1-4017-9278-7D062A44AD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB682C4C-35B1-4017-9278-7D062A44AD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB682C4C-35B1-4017-9278-7D062A44AD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB682C4C-35B1-4017-9278-7D062A44AD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93D38BC-7630-44D0-AC53-3E97A6A856BA}
+	EndGlobalSection
+EndGlobal
