@@ -5,10 +5,10 @@ namespace Service
 {
     public interface IToDoServices
     {
-        ToDo CreateToDo(ToDo note);
+        ToDo CreateToDo(ToDo toDo);
         ToDo GetToDo(int id);
         List<ToDo> GetToDos();
         void DeleteToDo(int id);
-        void EditToDo(ToDo note);
+        void EditToDo(ToDo toDo);
     }
 }
